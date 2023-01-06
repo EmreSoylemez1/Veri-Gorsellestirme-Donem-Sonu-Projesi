@@ -25,3 +25,5 @@ Düzenlemenin öncesi ve sonrasındaki değişimin yıl içerisinde ne kadar old
 
 ### Türk Lirasının Yıllara Göre Amerikan Doları Karşılığını Gösteren Zaman Serisi Grafiği
 ![grafik1](Grafikler/grafik3.png)
+
+Bu grafikte türk lirasının yıllara göre amerikan doları karşılığını göstermektedir. 
