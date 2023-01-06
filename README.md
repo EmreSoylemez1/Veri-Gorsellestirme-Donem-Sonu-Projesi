@@ -31,3 +31,8 @@ Bu grafikte Türk Lirasının yıllara göre Amerikan Doları karşılığını 
 ## Sonuç
 
 Ekonomik göstergelere ait verileri yorumlarken, iddiaya uygun olanları seçip diğer verileri dahil etmemek veri ile alakalı dürüst olmamanın en kötü ve zararlı örneklerinden birisi olup bu konuda dikkatli olmak son derece önemlidir.
+
+## Kaynakça
+
+* Türkiye Cumhuriyeti Çalışma ve Sosyal Güvenlik Bakanlığı
+* PriceR paketi
